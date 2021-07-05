@@ -30,11 +30,11 @@ View the deployed application at:
 
 ![FullScreenShot](client/src/utils/images/FullScreenShot.png?raw=true "FullScreenShot")
 
-![SearchResults](client\src\utils\images\SearchResults.png?raw=true "SearchResults")
+![SearchResults](client/src/utils/images/SearchResults.png?raw=true "SearchResults")
 
-![SavedBooks](client\src\utils\images\SavedBooks.png?raw=true "SavedBooks")
+![SavedBooks](client/src/utils/images/SavedBooks.png?raw=true "SavedBooks")
 
-![Google Book Search Demo](client\src\utils\images\GoogleBookSearchDemo.gif?raw=true "Google Book Search Demo")
+![Google Book Search Demo](client/src/utils/images/GoogleBookSearchDemo.gif?raw=true "Google Book Search Demo")
 
 ---
 
