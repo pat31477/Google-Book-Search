@@ -28,7 +28,7 @@ View the deployed application at:
 
 #### Search, save, and delete books:   
 
-![FullScreenShot](client\src\utils\images\FullScreenShot.png?raw=true "FullScreenShot")
+![FullScreenShot](client/src/utils/images/FullScreenShot.png?raw=true "FullScreenShot")
 
 ![SearchResults](client\src\utils\images\SearchResults.png?raw=true "SearchResults")
 
