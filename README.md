@@ -4,7 +4,7 @@
 
 This application was created using the MERN stack. It allows users to search for books via the Google Books API. Search results are rendered dynamically in the UI. Users have the option to view, save and/or delete books.
 
-View the deployed application at: 
+View the deployed application at: <b><a href="https://fathomless-depths-26934.herokuapp.com/" target="_blank">https://fathomless-depths-26934.herokuapp.com/</a></b>
 
 ### Technologies Used
  - React JS
@@ -26,7 +26,7 @@ View the deployed application at:
 
 5. To remove a saved book from the list, the user can click the `Delete` button to remove the book from the page. This also deletes the document from the Mongo DB.
 
-#### Search, save, and delete books:   
+#### Search, save, view, and delete books:   
 
 ![FullScreenShot](client/src/utils/images/FullScreenShot.png?raw=true "FullScreenShot")
 
@@ -93,4 +93,4 @@ For any other questions, please send me an email at: pat31477@yahoo.com
 
 ![License: MIT](https://img.shields.io/badge/License%3A-MIT-green.svg)
 
-View the deployed application at: 
+View the deployed application at: View the deployed application at: <b><a href="https://fathomless-depths-26934.herokuapp.com/" target="_blank">https://fathomless-depths-26934.herokuapp.com/</a></b>
