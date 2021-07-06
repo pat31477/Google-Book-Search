@@ -49,11 +49,11 @@ Installation:
 
 `npm install`  
 
-To Start Server:
+Start Server:
 
 `npm start`  
 
-To Visit App:
+View App:
 
 `localhost:3001`  
 
