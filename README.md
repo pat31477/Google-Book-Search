@@ -86,7 +86,10 @@ There are no defined tests for this application at this time..
 
 ## Questions:
 
-For more information about the application or to simply connect, please reach out to me [![GitHub](https://img.shields.io/badge/Patrick%20Walker-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477) 
+For more information about the application or to simply connect, please reach out to me
+
+ [![GitHub](https://img.shields.io/badge/Patrick%20Walker-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477)
+  
   [![LinkedIn](https://img.shields.io/badge/Patrick%20Walker%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/patrick-walker-926a35189/)
 
 For any other questions, please send me an email at: pat31477@yahoo.com
