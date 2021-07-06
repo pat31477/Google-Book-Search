@@ -6,7 +6,7 @@ This application was created using the MERN stack. It allows users to search for
 
 View the deployed application at: <b><a href="https://fathomless-depths-26934.herokuapp.com/" target="_blank">https://fathomless-depths-26934.herokuapp.com/</a></b>
 
-### Technologies Used
+### Tech Used:
  - React JS
  - Express JS
  - MongoDB
@@ -14,7 +14,7 @@ View the deployed application at: <b><a href="https://fathomless-depths-26934.he
  - Node
  - Axios
 
-## How it works
+## Description:
 
 1. Users are brought to the `Home` page where they can begin their search for any book. The Book information is retrived via the Google Books API.
 
@@ -38,7 +38,7 @@ View the deployed application at: <b><a href="https://fathomless-depths-26934.he
 
 ---
 
-## Installation and Setup Instructions
+## Installation & Setup:
 
 
 You can clone or fork this repo. You will need `node`, `npm`, and `MongoDB` installed globally on your machine.
@@ -89,7 +89,7 @@ There are no defined tests for this application at this time..
 For more information about the application or to simply connect, please reach out to me
 
  [![GitHub](https://img.shields.io/badge/Patrick%20Walker-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477)
-  
+
   [![LinkedIn](https://img.shields.io/badge/Patrick%20Walker%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/patrick-walker-926a35189/)
 
 For any other questions, please send me an email at: pat31477@yahoo.com
