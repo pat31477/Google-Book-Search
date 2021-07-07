@@ -1,7 +1,7 @@
 {
-  "name": "google-book-search",
+  "name": "google-books",
   "version": "0.1.0",
-  "description": "Google Book Search",
+  "description": "Google Books",
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {
