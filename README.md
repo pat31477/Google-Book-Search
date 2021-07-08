@@ -69,9 +69,11 @@ For more information about the license, click the link below:
 
 ## Contributing:
 
-Huge Thank you to Gabe Thomas, Jason Barbanel, and Steven Paul for all of their help, guidance, assistance and for checking my work to make sure it was done correctly. 
+Huge Thank you to Chloe Yu, Gabe Thomas, Jason Barbanel, and Steven Paul for all of their help, guidance, assistance and for checking my work to make sure it was done correctly. 
 
 You can view their work and repos here:
+
+  [![GitHub](https://img.shields.io/badge/Chloe%20Yu-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/chloeyu17)
 
   [![GitHub](https://img.shields.io/badge/Gabe%20Thomas-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/samohtebag)
 
